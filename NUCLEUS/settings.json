@@ -1,0 +1,13 @@
+{
+  "forecasting": {
+    "default_model": "Auto (Best Fit)",
+    "enabled_models": null
+  },
+  "data": {
+    "source": "sample",
+    "retention_days": 90
+  },
+  "system": {
+    "language": "EN"
+  }
+}

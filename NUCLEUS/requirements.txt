@@ -1,0 +1,21 @@
+# Core
+streamlit==1.50.0   # pinned: the custom CSS targets this version's HTML structure
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+plotly>=5.18
+scikit-learn>=1.3
+statsmodels>=0.14
+
+# Optional — advanced forecasting (trend, seasonality, non-linear patterns)
+prophet>=1.1
+xgboost>=2.0
+lightgbm>=4.0
+
+# Optional — NUCLEUS voice (text-to-speech / speech-to-text)
+gTTS>=2.5
+pyttsx3>=2.90
+SpeechRecognition>=3.10
+
+# Testing
+pytest>=8.0
